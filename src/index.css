@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+  
+}
+/* تطبيق الخطوط الافتراضية */
+body {
+    font-family: 'Poppins', 'Roboto', sans-serif;
+  }
+  
+  /* تخصيص النصوص بخط معين */
+  .h1 {
+    font-family: 'Noto Sans PhagsPa', sans-serif;
+  }
+  
+  .p {
+    font-family: 'Roboto', sans-serif;
+  }
+  
